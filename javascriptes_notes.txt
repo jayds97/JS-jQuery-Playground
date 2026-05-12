@@ -1,0 +1,30 @@
+What is JS?
+JS is a programming lang. We use it to give instuction to the computer
+Java is Dynamically typed lang
+I/P (code) ====computer===>>>> output
+console.log("jayant") ==>> used to log (print) message to the console 
+Variables == containers for data
+console.log(name)
+name = "john snow"; = string var
+nval = null; = null Variables
+age = 29; int/number Variables
+percentage = undefined; undefined Variables
+bval = false boolean Variables
+console.log(name,nval,age,percentage,bval);
+= :- assignment operator 
+variable name is case sensative 
+no space allowd in variable
+we can have $,_,number,letter allowed
+$,_,number with these varibale can start 
+reserved words (keywords) cannot be varibale names 
+use camelCase
+
+Declaration of Varibale 
+let,const,var
+var :- Variables can be redeclared and updated .A global Scope variable
+let :- variable cannot be redeclared but updated. A block Scope variable
+const : - Variables cannot be redeclared or updated. A block Scope variable
+
+Data Types in JS:- 
+Primitive = number,string,boolean,undefined,null,Symbol,Bigint
+Non-Primitive = Objects(Arrays,Fuctions) = Object is collection of value,values stored in key value pairs (collectins)
